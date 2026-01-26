@@ -1,29 +1,48 @@
-# Ignite Open Source (IOS)  
-**IOE Pulchowk Campus Student Community** 🚀
+# Ignite Open Source (IOS)
+**IOE Pulchowk Campus Student Community**
 
-Welcome to **Ignite Open Source (IOS)** — a vibrant, student-led community at **Institute of Engineering, Pulchowk Campus**, dedicated to **research-driven open-source development** with a focus on solving real-world problems in **Nepal**.
+Welcome to **Ignite Open Source (IOS)** — the **first dedicated open-source community** at **Institute of Engineering, Pulchowk Campus**, focused on **research-driven development** and solving real-world problems in **Nepal**.
 
-We believe open-source technology can create meaningful social impact. Our core mission is to empower students through collaborative research, problem identification, and the creation of high-quality, locally-relevant open-source tools.
+## What We Do
 
-![Open Source Banner](https://img.shields.io/badge/Open%20Source-Impactful-brightgreen?style=for-the-badge)  
-![Nepal Focused](https://img.shields.io/badge/Nepal%20Focused-🇳🇵-blue?style=for-the-badge)  
-![Student Powered](https://img.shields.io/badge/Student%20Powered-💻-orange?style=for-the-badge)
+- **Research-driven**: We identify Nepal-specific problems through structured research before building solutions
+- **Open-source first**: All tools are shared publicly on GitHub/PyPI for community benefit
+- **Interdisciplinary**: Open to **all departments** — non-political and non-profit
+- **Solution-oriented**: A complete pipeline from problem research → solution development → sharing
 
-## Our Mission
-Through workshops, hackathons, tech awareness programs, and hands-on collaboration, we:
-- Foster innovation and skill-building
-- Contribute to global and local open-source ecosystems
-- Develop and share tools on platforms like GitHub and PyPI
+## Domains of Focus
 
-## Primary Objectives (Core Focus)
-1. Conduct thorough research on the Nepali market/context to identify key problems where open-source solutions can make a **tangible difference**.
-2. Develop high-quality, open-source tools through **active student collaboration** to directly address the identified problems in the Nepali market.
+We prioritize **AI for social good** and **ethical open-source development** in key Nepali sectors:
 
-## Secondary Objectives (Supportive Activities)
-3. Organize hackathons, workshops, and collaborative events to promote innovation, problem-solving, and teamwork in open-source development.
-4. Run tech awareness programs to educate the community about the importance and potential of open-source software in various sectors.
-5. Encourage and facilitate contributions to global open-source projects.
-6. Develop educational content and resources to help students and beginners get started with coding, open-source contributions, and related technologies.
+- **Healthcare** — Accessible diagnostics, patient data management, rural health monitoring
+- **Education** — Adaptive learning platforms, resource-sharing tools for underserved areas
+- **Government Transparency** — Open data tools, civic engagement platforms
+- **Agriculture** — Farmer advisory apps, environmental monitoring
+
+## Our Objectives
+
+### Primary (Core Focus)
+1. **Research** — Conduct thorough research on the Nepali market/context to identify key problems where open-source solutions can make a tangible difference
+2. **Build** — Develop high-quality, open-source tools through active student collaboration to directly address identified problems
+
+### Secondary (Supportive Activities)
+3. **Events** — Organize hackathons, workshops, and collaborative events to promote innovation and teamwork
+4. **Awareness** — Run tech awareness programs to educate the community about open-source potential
+5. **Global Contributions** — Encourage and facilitate contributions to global open-source projects
+6. **Education** — Develop resources to help beginners get started with coding and open-source
+
+## Benefits
+
+### For Students
+- Real-world, portfolio-building experience in research, Git workflows, documentation, and deployment
+- Leadership, teamwork, and soft skills development through team roles and events
+- Mentorship and networking with faculty, alumni, industry experts, and international communities
+- Lower barriers for beginners with educational resources and guided contributions
+
+### For Nepal
+- Free, accessible solutions tailored to local challenges
+- Strengthens Nepal's national tech ecosystem by training engineers who contribute locally and globally
+- Promotes digital innovation and reduces reliance on costly proprietary software
 
 ## How We Work — Executive Committee
 We are structured into specialized teams to ensure smooth operations and impactful results:
@@ -35,12 +54,17 @@ We are structured into specialized teams to ensure smooth operations and impactf
 - **Administration Team** → Handles coordination, fundraising, budgeting, documentation, compliance, onboarding, and sponsorships.
 
 ## Join Us!
-We welcome **all Pulchowk Campus students** passionate about open source, coding, research, and social impact!
+We welcome **anyone** passionate about open source, coding, research, and social impact!
 
-- 🌟 Star this organization to stay updated
-- 👥 Follow our socials (coming soon: Facebook, Instagram, LinkedIn, Discord)
-- 🤝 Want to contribute? Check our repositories, open issues, or reach out!
-- 📩 Contact: [your-email@example.com] | Lead: Khagendra [Last Name]
+- Follow this organization to stay updated
+- Want to contribute? Check our repositories, open issues, or reach out!
+- Read our [Contributing Guidelines](../CONTRIBUTING.md) and [Code of Conduct](../CODE_OF_CONDUCT.md)
+
+### Connect With Us
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ios-ioe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/igniteos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Igniteopensrc@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ignite.os)
 
 ## Our Repositories
 Here you'll find:
@@ -57,7 +81,8 @@ Here you'll find:
 - **Impactful** — Focused on real Nepali needs
 - **Transparent** — Open communication & documentation
 
-Made with ❤️ by students of IOE Pulchowk Campus  
-Let's ignite open source in Nepal! 🔥
+---
+
+Founded at IOE Pulchowk Campus
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
